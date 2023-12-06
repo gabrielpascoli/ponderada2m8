@@ -12,7 +12,7 @@ def sabumuntonicola(message, history):
     print(message)
     print(history)
 
-    message_history = message_history.append(message)
+    message_history.append(message)
     content_message = "\n".join(message_history)
 
     chat = ChatOpenAI()
