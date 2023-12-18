@@ -26,7 +26,9 @@ def sabumuntonicola(message, history):
         ),
     ]
 
-    return(chat(messages))
+    bot = (chat(messages)).content
+
+    return bot
 
 def main ():
     chatbeto = gr.ChatInterface(sabumuntonicola)
