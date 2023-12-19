@@ -1,9 +1,11 @@
 from googletrans import Translator
 
 class POTARA:
-    def translate(self, text, target_language='pt'):
+    def _init_(self):
         self.translator = Translator()
+
+    def translate(self, text, target_language='pt'):
         self.translation = self.translator.translate(text, dest=target_language)
-        self.text = self.translation.text
+        self.translated_text = self.translation.text
         print(f"Translated text: {self.text}\n")
-        return self.text
+        return self.translated_text

@@ -2,11 +2,10 @@ from gtts import gTTS
 from pygame import mixer
 
 class NICOLA():
-    def text_to_speech(self, text, language='pt-br', file="sample/speech.mp3"):
-        nicola = gTTS(text, lang=language)
-        audio_file = file
-        nicola.save(audio_file)
-        return audio_file
+    def tts(self, text, language='pt-br', file="speech.mp3"):
+        gtts = gTTS(text, lang=language)
+        gtts.save(file)
+        return file
     
     def play_audio(self, audio_file):
         mixer.init()
