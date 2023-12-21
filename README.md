@@ -11,5 +11,10 @@ git clone https://github.com/gabrielpascoli/ponderada2m8.git
 
 ### [Ponderada5](https://github.com/gabrielpascoli/ponderada2m8/tree/main/src/ponderada5)
 
+## [ponderada6](https://github.com/gabrielpascoli/ponderada2m8/tree/main/src/ponderada6)
 
+## [ponderada7](https://github.com/gabrielpascoli/ponderada2m8/tree/main/src/ponderada7)
 
+## [ponderada8](https://github.com/gabrielpascoli/ponderada2m8/tree/main/src/ponderada8)
+
+## [ponderada10](https://github.com/gabrielpascoli/ponderada2m8/tree/main/src/ponderada10)

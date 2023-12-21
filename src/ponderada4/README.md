@@ -41,7 +41,7 @@ OPENAI_API_KEY=SuaChaveDeAPIOpenAI
 3. Execute o script principal:
 
 ```bash
-python nome-do-script.py
+python3 chat.py
 ```
 
 O chatbot será iniciado e estará pronto para interagir.
