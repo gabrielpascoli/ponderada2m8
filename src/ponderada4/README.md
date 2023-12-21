@@ -57,3 +57,5 @@ A função principal `sabumuntonicola` recebe as mensagens do usuário, mantém 
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões para melhorar o chatbot, sinta-se à vontade para criar issues ou enviar pull requests.
 
 **Divirta-se interagindo com o chatbot!**
+
+link do video: https://youtu.be/zmqFRf4Wqkw
