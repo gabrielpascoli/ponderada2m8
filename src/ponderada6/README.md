@@ -33,3 +33,5 @@ Para cada conjunto de saída y, um perceptron é treinado e testado. Os resultad
 Execução do Código
 
 O código pode ser executado como um script Python. Os resultados do treinamento para cada conjunto de saída são exibidos, demonstrando como o perceptron aprende a realizar a operação lógica AND.
+
+link do video:  https://youtu.be/apQuQM9J13Q
