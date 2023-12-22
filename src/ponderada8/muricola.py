@@ -5,7 +5,8 @@ import sys
 import os
 
 class MURICOLA:
-    def _init_(self):
+    def __init__(self):
+
         self.audio_file = sys.argv[1]
         self.murilo = MURILO()
         self.potara = POTARA()
@@ -26,5 +27,5 @@ def main():
     muricola = MURICOLA()
     muricola.supremo()
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
